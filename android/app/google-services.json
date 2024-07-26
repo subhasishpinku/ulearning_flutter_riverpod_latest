@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "346326847595",
+    "project_id": "ulearning-go",
+    "storage_bucket": "ulearning-go.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346326847595:android:d6b6f48886bbf7cda5a12e",
+        "android_client_info": {
+          "package_name": "com.dbestech.bloc.ulearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346326847595-mofqhout9o1l5vbv5ajiad31rhtougfb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dbestech.bloc.ulearning",
+            "certificate_hash": "5ce6025c4af765e1434b0798704b5d7990aa4db1"
+          }
+        },
+        {
+          "client_id": "346326847595-06t8dsitlnhh6tn5bjee72ltaci0fmki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOqbTdQ0gIIBV63k8LHhbLtKlOVqg_SY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346326847595-06t8dsitlnhh6tn5bjee72ltaci0fmki.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "346326847595-ouj9rqv73ac0a7fq6deqc6rdgn8ivk00.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dbestech.bloc.ulearning"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346326847595:android:01f22effa1c31bfda5a12e",
+        "android_client_info": {
+          "package_name": "com.dbestech.riverpod.ulearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346326847595-06t8dsitlnhh6tn5bjee72ltaci0fmki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOqbTdQ0gIIBV63k8LHhbLtKlOVqg_SY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346326847595-06t8dsitlnhh6tn5bjee72ltaci0fmki.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "346326847595-ouj9rqv73ac0a7fq6deqc6rdgn8ivk00.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dbestech.bloc.ulearning"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346326847595:android:fb3d320fd5b5f923a5a12e",
+        "android_client_info": {
+          "package_name": "com.dbestech.ulearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346326847595-06t8dsitlnhh6tn5bjee72ltaci0fmki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOqbTdQ0gIIBV63k8LHhbLtKlOVqg_SY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346326847595-06t8dsitlnhh6tn5bjee72ltaci0fmki.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "346326847595-ouj9rqv73ac0a7fq6deqc6rdgn8ivk00.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dbestech.bloc.ulearning"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

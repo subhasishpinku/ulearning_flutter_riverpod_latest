@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id">577315404237882</string>
+    <string name="facebook_client_token">bec6651b88b7f06f91e500d311eb1dcc</string>
+    <string name="fb_login_protocol_scheme">fb577315404237882</string>
+    <string name="default_notification_channel_id">com.dbestech.ulearning.message</string>
+</resources>
